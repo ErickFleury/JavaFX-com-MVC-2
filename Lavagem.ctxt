@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lavagem
+comment0.text=\r\n\ Calcula\ o\ custo\ de\ uma\ lavagem\ em\ um\ lava-jato\r\n\ \r\n\ @author\ Erick_Fleury\ \r\n\ @version\ 0.01\r\n
+comment1.params=tipoAutomovel\ tipoLavagem
+comment1.target=Lavagem(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Lavagem\r\n
+comment2.params=
+comment2.target=double\ calcular()
+comment2.text=\r\n\ Calcula\ o\ valor\ da\ lavagem\r\n\ \r\n\ @return\ \ \ \ \ o\ valor\ da\ lavagem\ dependendo\ do\ tipo\ de\ automovel\ e\ do\ tipo\ de\ lavagem\r\n
+comment3.params=
+comment3.target=java.lang.String\ valor()
+comment3.text=\r\n\ Retorna\ o\ valor\ da\ lavagem\r\n\ \r\n\ @return\ \ \ \ \ Retorna\ o\ valor\ da\ lavagem\r\n
+numComments=4
